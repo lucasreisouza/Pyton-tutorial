@@ -4,15 +4,6 @@
 
 ---
 
-## 📊 Progresso geral
-
-![progresso](https://img.shields.io/badge/progresso-0%25-red?style=flat-square)
-![cursos](https://img.shields.io/badge/cursos-25-blue?style=flat-square)
-![desafios de projeto](https://img.shields.io/badge/desafios%20de%20projeto-3-orange?style=flat-square)
-![desafio de código](https://img.shields.io/badge/desafio%20de%20c%C3%B3digo-1-purple?style=flat-square)
-
----
-
 ## 📚 Módulos da trilha
 
 ### 🟡 Módulo 1 — Onboarding & Fundamentos de Python e Lógica de Programação
