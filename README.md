@@ -1,63 +1,91 @@
-# 🐍 Aprendizado de Python — Lucas Reis Souza
+# 🐍 Luizalabs — Back-end com Python 2ª Edição
 
-> Repositório criado para registrar minha jornada de aprendizado em Python, com anotações, exercícios e projetos práticos.
-
----
-
-## 📌 Sobre este repositório
-
-Este repositório funciona como um diário de estudos. Aqui documento tudo que aprendo sobre Python — desde os conceitos básicos até tópicos mais avançados — com exemplos de código, anotações e desafios resolvidos.
+> Repositório criado para registrar meu progresso e anotações na trilha **Luizalabs Back-end com Python 2ª Edição** da [DIO](https://www.dio.me/).
 
 ---
 
-## 📂 Estrutura
+## 📊 Progresso geral
+
+![progresso](https://img.shields.io/badge/progresso-0%25-red?style=flat-square)
+![cursos](https://img.shields.io/badge/cursos-25-blue?style=flat-square)
+![desafios de projeto](https://img.shields.io/badge/desafios%20de%20projeto-3-orange?style=flat-square)
+![desafio de código](https://img.shields.io/badge/desafio%20de%20c%C3%B3digo-1-purple?style=flat-square)
+
+---
+
+## 📚 Módulos da trilha
+
+### 🟡 Módulo 1 — Onboarding & Fundamentos de Python e Lógica de Programação
+*10 atividades*
+
+- [ ] Introdução ao Luizalabs - Back-end com Python - 2ª Edição *(Básico • 1h)*
+- [ ] Ambiente de Desenvolvimento e Primeiros Passos com Python *(Básico • 1h)*
+- [ ] Conhecendo a Linguagem de Programação Python *(Básico • 2h)*
+- [ ] Tipos de Operadores com Python *(Básico • 2h)*
+- [ ] Estruturas Condicionais e de Repetição em Python *(Básico • 2h)*
+- [ ] Manipulando Strings com Python *(Básico • 2h)*
+- [ ] Trabalhando com Listas em Python *(Intermediário • 1h)*
+- [ ] Conhecendo Tuplas em Python *(Intermediário • 1h)*
+- [ ] Aprendendo a Utilizar Dicionários em Python *(Intermediário • 1h)*
+- [ ] 🏆 **Desafio de Código:** Exercite os Fundamentos sobre Python *(Básico • 1h)*
+
+---
+
+### 🔵 Módulo 2 — Python Orientado a Objetos na Prática
+*6 atividades*
+
+- [ ] Introdução à Programação Orientada a Objetos (POO) com Python *(Avançado • 1h)*
+- [ ] Aprendendo o Conceito de Herança com Python *(Avançado • 1h)*
+- [ ] Aplicando Encapsulamento em Python *(Avançado • 1h)*
+- [ ] Conhecendo Polimorfismo em Python *(Avançado • 1h)*
+- [ ] Interfaces e Classes Abstratas com Python *(Avançado • 1h)*
+- [ ] 🏆 **Desafio de Projeto:** Modelando o Sistema Bancário em POO com Python *(Avançado • 1h)*
+
+---
+
+### 🟣 Módulo 3 — APIs Modernas com FastAPI do Zero ao Deploy
+*9 atividades*
+
+- [ ] Introdução a Aplicações Rest *(Básico • 1h)*
+- [ ] Introdução ao FastAPI para APIs RESTful Assíncronas *(Intermediário • 1h)*
+- [ ] Primeiros Passos com FastAPI *(Intermediário • 1h)*
+- [ ] Explorando Banco de Dados Relacionais com Python DB API *(Básico • 1h)*
+- [ ] Manipulação de Dados com FastAPI Assíncrono *(Intermediário • 1h)*
+- [ ] Autenticação e Autorização em FastAPI *(Intermediário • 1h)*
+- [ ] Testando APIs RESTful Assíncronas em FastAPI *(Intermediário • 1h)*
+- [ ] Deploy de uma API FastAPI Assíncrona *(Intermediário • 1h)*
+- [ ] 🏆 **Desafio de Projeto:** Criando sua API Bancária Assíncrona com FastAPI *(Intermediário • 1h)*
+
+---
+
+### 🤖 Módulo 4 — IA para Acelerar o Desenvolvimento
+*4 atividades*
+
+- [ ] A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes *(Básico • 2h)*
+- [ ] Aplicações Práticas da Inteligência Artificial *(Básico • 2h)*
+- [ ] Utilizando Copilotos de Desenvolvimento de Software *(Básico • 1h)*
+- [ ] 🏆 **Desafio de Projeto:** Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM *(Básico • 4h)*
+
+---
+
+## 📂 Estrutura do repositório
 
 ```
-📦 python-aprendizado
-├── 📁 01-fundamentos/         # Variáveis, tipos, operadores, condicionais
-├── 📁 02-estruturas-de-dados/ # Listas, tuplas, dicionários, conjuntos
-├── 📁 03-loops/               # for, while, compreensão de listas
-├── 📁 04-funcoes/             # Funções, escopo, lambda, recursão
-├── 📁 05-poo/                 # Classes, objetos, herança, polimorfismo
-├── 📁 06-modulos/             # Importações, bibliotecas padrão
-├── 📁 07-arquivos/            # Leitura e escrita de arquivos
-├── 📁 08-excecoes/            # Tratamento de erros e exceções
-├── 📁 09-projetos/            # Projetos e exercícios práticos
+📦 luizalabs-python
+├── 📁 modulo-01-fundamentos/
+├── 📁 modulo-02-poo/
+├── 📁 modulo-03-fastapi/
+├── 📁 modulo-04-ia/
 └── 📄 README.md
 ```
 
 ---
 
-## 🗺️ Roadmap de estudos
+## 🛠️ Tecnologias da trilha
 
-- [x] Configurar ambiente de desenvolvimento
-- [ ] Fundamentos da linguagem
-- [ ] Estruturas de dados
-- [ ] Funções e escopo
-- [ ] Programação Orientada a Objetos (POO)
-- [ ] Módulos e bibliotecas
-- [ ] Manipulação de arquivos
-- [ ] Tratamento de exceções
-- [ ] Projetos práticos
-
----
-
-## 🛠️ Ferramentas utilizadas
-
-| Ferramenta | Descrição |
-|---|---|
-| Python 3.x | Linguagem principal |
-| VS Code | Editor de código |
-| Git & GitHub | Versionamento |
-
----
-
-## 📖 Recursos de estudo
-
-- [Documentação oficial do Python](https://docs.python.org/pt-br/3/)
-- [Python para Zumbis (PT-BR)](https://www.pycursos.com/python-para-zumbis/)
-- [freeCodeCamp — Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- [Real Python](https://realpython.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -66,7 +94,4 @@ Este repositório funciona como um diário de estudos. Aqui documento tudo que a
 **Lucas Reis Souza**
 📧 lulucasreisouza@gmail.com
 🔗 [GitHub](https://github.com/LucasReisSouza)
-
----
-
-> *"A melhor forma de aprender a programar é programando."*
+🎓 [DIO](https://www.dio.me/)
