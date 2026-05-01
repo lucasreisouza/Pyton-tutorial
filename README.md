@@ -9,7 +9,7 @@
 ### 🟡 Módulo 1 — Onboarding & Fundamentos de Python e Lógica de Programação
 *10 atividades*
 
-- [ ] Introdução ao Luizalabs - Back-end com Python - 2ª Edição *(Básico • 1h)*
+- [X] Introdução ao Luizalabs - Back-end com Python - 2ª Edição *(Básico • 1h)*
 - [ ] Ambiente de Desenvolvimento e Primeiros Passos com Python *(Básico • 1h)*
 - [ ] Conhecendo a Linguagem de Programação Python *(Básico • 2h)*
 - [ ] Tipos de Operadores com Python *(Básico • 2h)*
