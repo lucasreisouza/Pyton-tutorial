@@ -1,0 +1,7 @@
+nome = input("Informe o seu nome: ") # A função input() é usada para obter entrada do usuário. O texto dentro dos parênteses é exibido como um prompt para o usuário, indicando o que ele deve inserir. O valor inserido pelo usuário é armazenado na variável "nome".
+idade = input("Informe a sua idade: ") # A função input() é usada novamente para obter a idade do usuário. O valor inserido é armazenado na variável "idade". Ambas as variáveis "nome" e "idade" agora contêm os valores fornecidos pelo usuário.
+
+print(nome, idade) # Por padrão, o print() separa os argumentos por um espaço e termina a linha com uma quebra de linha.
+print(nome, idade, end="...\n") # O argumento "end" é usado para especificar o que deve ser impresso no final da linha. Por padrão, é uma nova linha ("\n"), mas aqui foi alterado para "...\n", o que significa que após imprimir o nome e a idade, será adicionado "..." e depois uma quebra de linha.
+print(nome, idade, sep="#", end="...\n") # O argumento "sep" é usado para especificar o separador entre os argumentos. Por padrão, é um espaço, mas aqui foi alterado para "#", o que significa que o nome e a idade serão separados por "#" em vez de um espaço.
+print(nome, idade, sep="#") # Neste caso, o argumento "end" não foi especificado, então ele usará o valor padrão, que é uma nova linha ("\n"). O nome e a idade serão separados por "#" e, em seguida, a linha será terminada com uma quebra de linha.
